@@ -1,0 +1,11 @@
+D:\打分软件\打分软件\打分软件\bin\Debug\打分软件.exe
+D:\打分软件\打分软件\打分软件\bin\Debug\打分软件.pdb
+D:\打分软件\打分软件\打分软件\bin\Debug\打分软件.xml
+D:\打分软件\打分软件\打分软件\obj\Debug\打分软件.vbprojResolveAssemblyReference.cache
+D:\打分软件\打分软件\打分软件\obj\Debug\打分软件.Form1.resources
+D:\打分软件\打分软件\打分软件\obj\Debug\打分软件.Resources.resources
+D:\打分软件\打分软件\打分软件\obj\Debug\打分软件.vbproj.GenerateResource.Cache
+D:\打分软件\打分软件\打分软件\obj\Debug\打分软件.exe
+D:\打分软件\打分软件\打分软件\obj\Debug\打分软件.xml
+D:\打分软件\打分软件\打分软件\obj\Debug\打分软件.pdb
+D:\打分软件\打分软件\打分软件\obj\Debug\打分软件.vbproj.ResolveComReference.cache
